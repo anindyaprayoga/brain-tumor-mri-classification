@@ -6,3 +6,4 @@ opencv-python==4.9.0.80
 tensorflow-cpu==2.18.0
 plotly==5.18.0
 kaleido==0.2.1
+scipy==1.15.3
